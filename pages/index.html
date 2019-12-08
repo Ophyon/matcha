@@ -1,14 +1,17 @@
 <html>
 <head>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 <title>{{site}}</title>
 <style>
-  
+  body{
+    font-family: 'Source Sans Pro', sans-serif;
+  }
   .title{
-font-family:;
 color:black;
 position:absolute;
 top:50px;
 left:40%;
+    
 }
   
   .subtitle{
@@ -35,7 +38,7 @@ left:40%;
 
 <body>
   
- <h1 class = "title"> {{site}}  </h1>
+ <strong><h1 class = "title"> {{site}}  </h1></strong>
   <h3 class = "subtitle"> issue #{{issue-number}}  </h3>
  
   {{body}}
