@@ -5,7 +5,7 @@ config = open("config.json", "r")
 
 configurated = json.load(config)	
 
-sitefile = open("templates/stuff.html", "r")	
+sitefile = open("pages/index.html", "r")	
 
 data = sitefile.read()	
 data = data.replace("///site", configurated["site"])	
