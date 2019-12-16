@@ -6,33 +6,7 @@
   body{
     font-family: 'Source Sans Pro', sans-serif;
   }
-  .title{
-color:black;
-position:relative;
-top:50px;
-text-align: center;
-font-size:76.2px;
-    
-}
-  
-  .subtitle{
-  position:relative;
-  top:60px;
-  text-align: center;
-  font-size:26.4px;
-}
-  p{
-  position:absolute;
-  top:300px;
-  left:10%;
-  right:10%;
-  font-size:22px;
-  }
-  footer{
-  position:relative;
-  bottom:20px;
-  text-align: center;
-  }
+
   
   </style>
 </head>
@@ -40,9 +14,9 @@ font-size:76.2px;
 <body>
   
  <strong><h1 class = "title"> {{site}}  </h1></strong>
-  <h3 class = "subtitle"> issue #{{issue-number}}  </h3>
+  <h3 class = "subtitle">{{date}}</h3>
  
-  {{body}}
+ <p class = "content"> {{body}} </p>
   
   
   <footer>
