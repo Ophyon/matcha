@@ -10,6 +10,7 @@ edit the config.json file to your liking
 edit the config/main.md file to contain the text for your site (all markdown is valid)
 
 run the main.py file and your site should havr been generated in the pages/index.html file
+
 # incredibly detailed instructions on how to make a post online
 go to https://repl.it 
 
