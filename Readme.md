@@ -11,7 +11,7 @@ edit the config/main.md file to contain the text for your site (all markdown is 
 
 run the main.py file and your site should havr been generated in the pages/index.html file
 
-# incredibly detailed instructions on how to make a post online
+# incredibly detailed instructions on how to make a post online without netlify
 go to https://repl.it 
 
 now click new repl
