@@ -1,6 +1,6 @@
 # matcha
 
-follow the instructions [here](https://discord.gg/pVhMuxQ)
+follow the instructions [here](https://discord.gg/pVhMuxQ)<br>
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/load1n9/matcha)
 
 [templates](https://github.com/ophyon/matcha-templates)
